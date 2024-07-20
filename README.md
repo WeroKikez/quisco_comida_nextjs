@@ -1,3 +1,10 @@
+# React, NextJS y Prisma - Quisco de venta de alimentos
+
+Un website estilo quisco donde venden alimentos. Seleccionas tus alimentos y ordenas a tu nombre. La orden aparecera en concina y te notificaran cuando este lista
+
+======================================================================
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
