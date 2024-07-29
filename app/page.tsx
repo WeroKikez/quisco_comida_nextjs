@@ -1,5 +1,5 @@
+import { redirect } from "next/navigation";
+
 export default function Home() {
-  return (
-    <h1>Hola Mundo en NextJS</h1>
-  );
+  return redirect('/order/cafe')
 }
