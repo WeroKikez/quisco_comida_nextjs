@@ -7,7 +7,7 @@
 .yarn/install-state.gz
 
 # images (download from React/Typescript udemy course)
-/public
+# /public (this folder is necesary for deploy)
 
 # testing
 /coverage
